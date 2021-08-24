@@ -1,1 +1,0 @@
-This is a clone of Google search . It doesn't look exactly same but still it will work. I have just started learning Web Dev.. so plz consider if any bugs you find.
